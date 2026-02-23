@@ -47,17 +47,6 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=midnight-purple"/>
 
-## 📌 Projetos em Destaque
-
-🔹 **MQTT_class**  
-Comunicação em tempo real usando MQTT com Python.
-
-🔹 **Next FIAP Portfolio**  
-Portfólio em grupo com projetos e experiências em tecnologia.
-
-🔹 **TCC Project**  
-Aplicação web desenvolvida como Trabalho de Conclusão de Curso.
-
 ---
 
 ## 🐍 Contribuições
