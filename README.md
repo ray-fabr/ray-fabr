@@ -41,8 +41,6 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
 ## 📊 Estatísticas
 
-## 📊 Estatísticas
-
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ray-fabr&show_icons=true&theme=midnight-purple"/>
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=midnight-purple"/>
