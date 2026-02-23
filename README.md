@@ -41,11 +41,11 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
 ## 📊 Estatísticas
 
-![Raissa GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-fabr&show_icons=true&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=tokyonight&title_color=9D4EDD)
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ray-fabr&show_icons=true&theme=midnight-purple"/>
 
----
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=midnight-purple"/>
 
 ## 📌 Projetos em Destaque
 
