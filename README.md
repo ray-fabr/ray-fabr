@@ -74,9 +74,9 @@ Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo
 
 ## 📫 Contato
 
-📧 seuemail@email.com  
-💼 LinkedIn: seu link  
-🌐 Portfólio: seu link  
+📧 raissafabriciolima3@gmail.com 
+💼 LinkedIn: (https://www.linkedin.com/in/raissa-fabricio-lima-ab1540295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+
 
 ---
 
