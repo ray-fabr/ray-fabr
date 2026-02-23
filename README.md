@@ -62,7 +62,7 @@ Aplicação web desenvolvida como Trabalho de Conclusão de Curso.
 
 ## 🐍 Contribuições
 
-![snake gif](https://github.com/ray-fabr/ray-fabr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
