@@ -22,28 +22,28 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-7B2CBF?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5A189A?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 🌐 Front-end
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-7B2CBF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-9D4EDD?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-5A189A?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-9D4EDD?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas
 
-![Raissa GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-fabr&show_icons=true&theme=radical)
+![Raissa GitHub stats](https://github-readme-stats.vercel.app/api?username=ray-fabr&show_icons=true&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ray-fabr&layout=compact&theme=tokyonight&title_color=9D4EDD)
 
 ---
 
@@ -80,4 +80,4 @@ Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo
 
 ---
 
-⭐ Obrigada por visitar meu perfil!
+⭐ Obrigada por visitar meu perfil 💜
