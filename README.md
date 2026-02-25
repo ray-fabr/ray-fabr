@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Raissa!
 
-🎓 Ciência da Computação – FIAP  
-💻 Foco em Back-end, IoT e Desenvolvimento de Sistemas  
-🚀 Apaixonada por tecnologia e projetos práticos  
+Ciência da Computação – FIAP  
+Foco em Back-end, IoT e Desenvolvimento de Sistemas  
+Apaixonada por tecnologia e projetos práticos  
 
 ---
 
@@ -11,7 +11,7 @@
 Sou estudante de Ciência da Computação com interesse em desenvolvimento back-end, automação e Internet das Coisas.  
 Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
-✨ Atualmente focada em:
+Atualmente focada em:
 - Back-end
 - IoT
 - Automação
@@ -21,18 +21,18 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
 ## 🚀 Tecnologias
 
-### 💻 Linguagens
+### Linguagens
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-7B2CBF?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-5A189A?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white)
 
-### 🌐 Front-end
+### Front-end
 ![HTML](https://img.shields.io/badge/HTML-7B2CBF?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-9D4EDD?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-5A189A?style=for-the-badge&logo=react&logoColor=white)
 
-### 🛠️ Ferramentas
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-5A189A?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-9D4EDD?style=for-the-badge&logo=vite&logoColor=white)
@@ -47,7 +47,7 @@ Gosto de aprender criando projetos reais e explorando novas tecnologias.
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
@@ -59,7 +59,7 @@ Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo
 
 ---
 
-## 📫 Contato
+## Contato
 
 📧 raissafabriciolima3@gmail.com 
 💼 LinkedIn: (https://www.linkedin.com/in/raissa-fabricio-lima-ab1540295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
@@ -67,4 +67,4 @@ Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo
 
 ---
 
-⭐ Obrigada por visitar meu perfil 💜
+Obrigada por visitar meu perfil 💜
