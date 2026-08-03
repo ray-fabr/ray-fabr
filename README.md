@@ -47,12 +47,6 @@ Atualmente focada em:
 
 ---
 
-## Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Objetivo
 
 Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo como desenvolvedora back-end.
