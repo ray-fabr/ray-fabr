@@ -49,7 +49,7 @@ Atualmente focada em:
 
 ## 🎯 Objetivo
 
-Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo como desenvolvedora back-end.
+Busco crescer na área de tecnologia, desenvolvendo soluções reais e evoluindo como desenvolvedora.
 
 ---
 
